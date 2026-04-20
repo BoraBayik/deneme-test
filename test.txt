@@ -1,4 +1,4 @@
-Bu bir test dosyasıdır.
+include ilk
 
 
-Test dosyası ekleme
+int main{}
